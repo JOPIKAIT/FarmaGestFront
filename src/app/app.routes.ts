@@ -6,7 +6,7 @@ import { DashboardComponent } from './system/feature/dashboard/dashboard.compone
 export const routes: Routes = [
     {
         path: '',
-        redirectTo: 'farmagest/dashboard',
+        redirectTo: 'auth',
         pathMatch: 'full'
     },
     {
